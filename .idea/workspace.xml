@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43c7e22a-c0ed-4293-ac53-2d2693d6e8d7" name="Changes" comment="" />
+    <list default="true" id="43c7e22a-c0ed-4293-ac53-2d2693d6e8d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Ejercicios_Modulo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_Ejercicio_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +61,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "TattysB"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TattysB&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TattysB/Ejercicios_Modulo2.git",
-    "accountId": "7c89e55f-d1ca-4247-ad1e-e3e7a2c918f0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TattysB/Ejercicios_Modulo2.git&quot;,
+    &quot;accountId&quot;: &quot;7c89e55f-d1ca-4247-ad1e-e3e7a2c918f0&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="31eFTxdbbx4yyH1SYdfz7105Uzi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,111 +84,150 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for test_Ejercicio_1.test_pedir_edad.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_1.test_pedir_estudiante.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_1.test_verificar_edad.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_10.test_mover_matriz.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_11.test_validar_cedula.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_11.test_validar_longitud.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_11.test_validar_numerico.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_11.test_validar_vacio.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_12.test_lanzar_dados.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_13.test_aventura.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_13.test_validar_biblioteca.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_13.test_validar_entrada.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_13.test_validar_sotano.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_14.test_validar_entrada.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_15.test_validar_coordenada.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_2.test_pedir_comando.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_3.test_validar_contrasena.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_4.test_jugar_ronda.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_5.test_validar_numero.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_6.test_encontrar_indices.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_6.test_validar_frase.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_6.test_validar_letra.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_7.test_validar_cantidad.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_7.test_validar_nombre.executor": "Debug",
+    "Python tests.Python tests for test_Ejercicio_7.test_validar_nota.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_8.test_obtener_cuadrados.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_8.test_obtener_etiquetas.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_8.test_obtener_positivos.executor": "Run",
+    "Python tests.Python tests for test_Ejercicio_9.test_calcular_iva.executor": "Run",
+    "Python tests.Python tests in test_Ejercicio_1.py.executor": "Run",
+    "Python tests.Python tests in test_Ejercicio_8.py.executor": "Run",
     "Python.Ejercicio_1.executor": "Run",
+    "Python.Ejercicio_10.executor": "Run",
+    "Python.Ejercicio_11.executor": "Run",
+    "Python.Ejercicio_12.executor": "Run",
+    "Python.Ejercicio_13.executor": "Run",
+    "Python.Ejercicio_14.executor": "Run",
+    "Python.Ejercicio_15.executor": "Run",
     "Python.Ejercicio_2.executor": "Run",
     "Python.Ejercicio_3.executor": "Run",
+    "Python.Ejercicio_4.executor": "Run",
+    "Python.Ejercicio_5.executor": "Run",
+    "Python.Ejercicio_6.executor": "Run",
+    "Python.Ejercicio_7.executor": "Run",
+    "Python.Ejercicio_8.executor": "Run",
+    "Python.Ejercicio_9.executor": "Run",
     "Python.prueba.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/tempSpace/Ejercicios_Modulo_2/tests",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Ejercicio_1">
-    <configuration name="Ejercicio_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\tempSpace\Ejercicios_Modulo_2\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Ejercicio_15.test_validar_disparo_repetido">
+    <configuration name="Python tests for test_Ejercicio_13.test_validar_biblioteca" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Ejercicios_Modulo2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Ejercicio_13.test_validar_biblioteca&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Ejercicio_13.test_validar_sotano" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Ejercicios_Modulo2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Ejercicio_13.test_validar_sotano&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Ejercicio_14.test_validar_entrada" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Ejercicios_Modulo2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicio_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Ejercicio_14.test_validar_entrada&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="prueba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Ejercicio_15.test_validar_coordenada" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Ejercicios_Modulo2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prueba.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Ejercicio_15.test_validar_coordenada&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Ejercicio_15.test_validar_disparo_repetido" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Ejercicios_Modulo2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Ejercicio_15.test_validar_disparo_repetido&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ejercicio_1" />
-        <item itemvalue="Python.Ejercicio_3" />
-        <item itemvalue="Python.Ejercicio_2" />
-        <item itemvalue="Python.prueba" />
+        <item itemvalue="Python tests.Python tests for test_Ejercicio_15.test_validar_disparo_repetido" />
+        <item itemvalue="Python tests.Python tests for test_Ejercicio_15.test_validar_coordenada" />
+        <item itemvalue="Python tests.Python tests for test_Ejercicio_14.test_validar_entrada" />
+        <item itemvalue="Python tests.Python tests for test_Ejercicio_13.test_validar_sotano" />
+        <item itemvalue="Python tests.Python tests for test_Ejercicio_13.test_validar_biblioteca" />
       </list>
     </recent_temporary>
   </component>
